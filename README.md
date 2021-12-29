@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bilröst
-- 👀 I’m interested in marketing tech, AI, tracking and more technical development!
-- 🌱 I’m currently learning how to operate a startup
-- 💞️ I’m looking to collaborate on any tech development
-- 📫 How to reach me at hello@bilrost.io
+- 👋 Hi, we're @Bilröst
+- 👀 We're interested in marketing tech, AI, tracking and more technical development!
+- 🌱 We're currently learning how to operate a startup
+- 💞️ We're looking to collaborate on any tech development
+- 📫 How to reach us at hello@bilrost.io
 
 <!---
 Bilrost/Bilrost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
